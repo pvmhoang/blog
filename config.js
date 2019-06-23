@@ -2,7 +2,7 @@
 
 module.exports = {
   url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
+  title: 'Blog by Hoang Pham',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
@@ -23,11 +23,11 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Hoang Pham',
+    photo: '/photo.png',
+    bio: 'Full Stack Develoiper',
     contacts: {
-      email: '#',
+      email: 'pvmhoang@gmail.com',
       telegram: '#',
       twitter: '#',
       github: '#',
